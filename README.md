@@ -1,3 +1,9 @@
-# Machine_Learning_Project
+## Machine_Learning_Project
 
-this is first machine learning project
+### This is first machine learning project
+
+
+### Software and account Rqquirement.
+
+1. [Github Account](https://github.con)
+2. [aws Account](httpas://dashboard.aws.com/login)
