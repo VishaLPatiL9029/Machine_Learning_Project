@@ -8,3 +8,15 @@
 1. [Github Account](https://github.con)
 2. [aws Account](httpas://dashboard.aws.com/login)
 3. [git cli](https://git.com)
+
+
+### creating conda environment
+
+
+```
+conda create -p venv python == 3.7 -y
+```
+
+```
+conda activate venv/
+```
