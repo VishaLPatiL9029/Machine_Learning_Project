@@ -6,7 +6,7 @@ from typing import List
 
 
 project_name ="housing-predictor"
-version = "0.0.2"
+version = "0.0.2  "
 author = "Vishal"
 description = "this is my first live project"
 packages = ["housing"]
